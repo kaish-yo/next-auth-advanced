@@ -1,6 +1,6 @@
 # Deep Dive of Next.js with Auth.js
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). I added Auth.js functionality as its backend and make it adapatable to sign up with OAuth and credential providers.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). I added Auth.js functionality as its backend and make it adapatable to signing up with OAuth and credential providers.
 
 ## Project Structure
 
